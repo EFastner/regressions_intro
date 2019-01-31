@@ -1,0 +1,26 @@
+##Data Set Column Explanations
+**season -** Denotes the season in which the game occurred in<br />
+**game_id -** Denotes the unique game_id value of the game<br />
+**game_date -** Denotes the date that a game occurred<br />
+**session -** Denotes whether the game was a regular season game ("R") or a postseason game ("P")<br />
+**game_period -** Denotes the period in which the game ended (3 = end of regulation, 4 = OT, 5 = shootout)<br />
+**home_team -** Denotes the game's home team <br />
+**away_team -** Denotes the game's away team <br />
+**home_score -** Denotes the final score for the home team <br />
+**away_score -** Denotes the final score for the away team <br />
+**home_shots -** Denotes the total number of shots taken by the home team <br />
+**away_shots -** Denotes the total number of shots taken by the away team <br />
+**home_corsi -** Denotes the total corsi of the home team <br />
+**away_corsi -** Denotes the total corsi of the away team <br />
+**home_corsi_5v5 -** Denotes the total corsi of the home team while at 5 on 5 <br />
+**away_corsi_5v5 -** Denotes the total corsi of the away team while at 5 on 5 <br />
+**home_goals -** Denotes the total number of goals scored by the home team excluding shootout goals <br />
+**away_goals -** Denotes the total number of goals scored by the away team excluding shootout goals <br />
+**home_game_num -** Denotes the total number of games played by the home team during the given season <br /> 
+**away_game_num -** Denotes the total number of games played by the away team during the given season <br />
+**home_points_entering -** Denotes the total number of points earned by the home team entering the current game <br />
+**away_points_entering -** Denotes the total number of points earned by the away team entering the current game <br />
+**home_points_possible -** Denotes the maximum number of points that could have been earned by the home team entering the current game (total games played * 2 points) <br />
+**away_points_possible -** Denotes the maximum number of points that could have been earned by the away team entering the current game (total games played * 2 points) <br />
+**home_points_percent -** Percentage of possible points earned by the home team <br />
+**away_points_percent -** Percentage of possible points earned by the away team <br />
